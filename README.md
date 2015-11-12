@@ -1,4 +1,4 @@
-### Real-Time Directions Prototype
+### MaxFlowSMT
 
 Solving the Max-Flow problem using the optimizing nuZ solver included in the Z3 theorem prover.
 
